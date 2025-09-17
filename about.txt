@@ -1,0 +1,8 @@
+N. Tejaswi
+BSc - Computers
+One key concept about GitHub is its role as a centralized platform for collaborative version control,
+ built upon the distributed version control system Git. 
+This means that while Git allows individual developers to track changes and manage code locally, 
+GitHub provides a web-based service that hosts these Git repositories, 
+making it significantly easier for multiple individuals to work on the same project simultaneously, 
+share their code, and manage contributions.
